@@ -1,9 +1,13 @@
 _repo: Rustic-Chivalry-Cavalleria-Rusticana-Melodrama-in-One-Act_48007
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Macy, J. C.
     gutenberg_agent_id: '44574'
     url: http://www.gutenberg.org/2009/agents/44574
+covers:
+- cover_type: archival
+  image_path: 48007-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Mascagni, Pietro
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5493
     wikipedia: http://en.wikipedia.org/wiki/Pietro_Mascagni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48007#Rustic-Chivalry-Cavalleria-Rusticana-Melodrama-in-One-Act
 gutenberg_bookshelf: IT Musica
 gutenberg_issued: '2015-01-17'
 gutenberg_type: Text
